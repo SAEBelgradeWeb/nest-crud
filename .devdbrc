@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/Users/vladimirlelicanin/Projects/nest-crud/cats.db"
+  }
+]
